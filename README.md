@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+This project translate ASL word to English , Tamil and Sinhale ,
+
+As an exmple , If user inpur ASL gesture of word ( apple )🧏🍎
+it will show outputs in words as Apple , ඇපල් , ஆப்பிள்
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
