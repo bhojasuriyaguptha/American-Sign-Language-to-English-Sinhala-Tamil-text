@@ -1,4 +1,4 @@
-This project translate ASL word to English , Tamil and Sinhale ,
+This project translate ASL word to English , Tamil and Sinhala ,
 
 As an exmple , If user inpur ASL gesture of word ( apple )🧏🍎
 it will show outputs in words as Apple , ඇපල් , ஆப்பிள்
